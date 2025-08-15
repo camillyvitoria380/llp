@@ -3,3 +3,4 @@ git config --global user.name "camillyvitoria380"
 git config --global user.email "00001135389202SP@aluno.educacao.sp.gov.br"
 git branch -M main
 git remote add origin https://github.com/camillyvitoria380/llp.git
+git pull origin main
