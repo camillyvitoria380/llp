@@ -1,5 +1,4 @@
 estoque=[20,15,10,30,5]
-#criar funçoes atualizar,adicionar,exibir
 def atualizar(elemento, quantidade):
     posiçao=elemento-1
     if 0<=posiçao<len(estoque):
